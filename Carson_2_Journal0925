@@ -1,0 +1,18 @@
+1.ls
+2.ls -rt
+3.ls -rtl
+4.I would use this to find out what files has been accesed and by who
+5.cat file.txt | grep -i  "string"  file.txt
+6.
+7.
+8.
+9.
+10.find .  -type f -exec file {} \; > ~/evid/filetype.list
+11.find . | grep *.xls
+12.
+13.
+14.
+15.mount -t vfat -o ro,noexec /dev/fd0 /mnt/analysis
+16.
+17.
+
