@@ -3,16 +3,16 @@
 3.ls -rtl
 4.I would use this to find out what files has been accesed and by who
 5.cat file.txt | grep -i  "string"  file.txt
-6.
-7.
-8.
-9.
+6.grep -ai '[0-9][3]-[0-9][2]-[0-9][4]' [file]
+7.grep -ai '[a-z]*@[a-z]*.[a-z]' [file]
+8.grep -abif searchlist.txt image.disk1 > hits.txt
+9.So you can find files in a cloned drive.
 10.find .  -type f -exec file {} \; > ~/evid/filetype.list
 11.find . | grep *.xls
-12.
-13.
-14.
+12.ind . -type f -exec file {} \; > ~/evid/filetype.list
+13.You would  search for certain file types when only searching for docs, xls, pdfs, etc
+14.fdisk -l
 15.mount -t vfat -o ro,noexec /dev/fd0 /mnt/analysis
-16.
-17.
+16.cat /dev/zero >> ZEROS.TXT
+17.to totaly erase image 
 
