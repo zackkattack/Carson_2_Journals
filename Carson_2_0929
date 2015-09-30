@@ -1,0 +1,20 @@
+
+agnosp@neisd.net
+apape@neisd.net
+bblanc@neisd.net
+clocka@neisd.net
+ddavis2@neisd.net
+gbekar@neisd.net
+jcontr1@neisd.net
+jgrant5@neisd.net
+jstanc@neisd.net
+jvidal1@neisd.net
+kphilb1@neisd.net
+mdagge1@neisd.net
+mfalco1@neisd.net
+rarroy@neisd.net
+shudso@neisd.net
+wclaug@neisd.net
+
+
+ grep -ao '[^@ : >]*@neisd.net' directory.cfm | sort -u
