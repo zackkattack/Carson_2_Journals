@@ -1,0 +1,17 @@
+grep -abif searchterms.txt practical.floppy.dd > hits.txt
+  grabs text from practical.floppy.dd with words in searchterms.txt and saves it as hit.txt
+cat hits.txt
+  shows hit.text
+xxd -s 75441 practical.floppy.dd | less
+  gives you hex values of the image in a readable format
+fallocate -l 10M file.out
+  allocates 10 mb 
+dd -h
+  Shows disk partition
+dd if=/dev/zero of=file.out
+  Make a blank image
+dd if=/dev/zero bs=1M count=10M of=file2.out
+xxd -a file.out
+  showing hex of file.out
+xxd -a practical.floppy.dd
+  show hex of image
