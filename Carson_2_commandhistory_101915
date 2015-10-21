@@ -1,0 +1,413 @@
+  1  psw
+    2  passwd
+    3  ls
+    4  cd /
+    5  ls
+    6  ls -l
+    7  htop
+    8  ls -rt
+    9  ls -rt /usershered
+   10  ls -rt /usr/shered
+   11  ls -rt /usr/share/
+   12  ls -rt /usr/share/digitalforensics
+   13  cha1sum /usr/share/digitalforensics/caine5.o.iso
+   14  sha1sum /usr/share/digitalforensics/caine5.o.iso
+   15  sha1sum /usr/share/digitalforensics/caine5.0.iso
+   16  acine5.0.iso
+   17  ls /home/mirko/
+   18  ls
+   19  man VFAT
+   20  wpd
+   21  pwd
+   22  touch balls.txt
+   23  pico balls
+   24  cat balls
+   25  cat balls.txt
+   26  file balls.txt 
+   27  rm balls.txt
+   28  oneko
+   29  ls mnt
+   30  ip
+   31  color
+   32  colors
+   33  tolit
+   34  amn tolit
+   35  ls /mnt/floppy/
+   36  find /mnt/floopy/ -type f -exec sha1sum {}\; >sha1.filelist
+   37  find /mnt/floopy/ -type f -exec sha1sum {}\;>sha1.filelist
+   38  find /mnt/floopy/ -type f -exec sha1sum {}\|>sha1.filelist
+   39  find /mnt/floopy/ -type f -exec sha1sum {} \;>sha1.filelist
+   40  find /mnt/floppy/ -type f -exec sha1sum {} \;>sha1.filelist
+   41  ls
+   42  cat sha1.filelist
+   43  amn fiel
+   44  manfile
+   45  man file
+   46  &man mount
+   47  man file
+   48  ls -al
+   49  virtualbox 
+   50  find . -type f -exec file {} \; > ~/evid/filetype.list
+   51  ls -laiRtu
+   52  tree
+   53  strings
+   54  grep -abif searchlist.txt image.disk1 > hits.txt
+   55  grep -i jpg somefile
+   56  man oneko
+   57  ls /floppy
+   58  ls /mnt/floppy
+   59  ls /mnt/floppy/Docs
+   60  ls /mnt/floppy/Docs -type f -exec {} | cat
+   61  ls /mnt/floppy/Docs -type f -exec cat {}\;
+   62  ls /mnt/floppy/Docs -type f -exec cat {}/;
+   63  ls /mnt/floppy/Docs -type f -exec cat {} \;
+   64  ls /mnt/floppy/Docs find /mnt/floppy/Docs -type f -exec cat {} \;
+   65  cd /mnt/floppy/Docs
+   66  find /mnt/floppy/Docs -type f -exec cat {} \;
+   67  cd
+   68  l
+   69  ls
+   70  find /mnt/floppy/ -type f -exec file {} \;  > floppycontent.txt
+   71  ls
+   72  cat floppycontent.txt
+   73  find /mnt/floppy/ -type f -exec file { } \;  > floppycontent.txt
+   74  cat floppycontent.txt
+   75  find /mnt/floppy/ -type f -exec file {} \;  > floppycontent.txt
+   76  cat floppycontent.txt
+   77  ls /mnt/floppy/
+   78  cat /mnt/floppy/Doc 
+   79  cat /mnt/floppy/ Doc
+   80  cat /mnt/floppy/ ouchy.dat
+   81  cat /mnt/floppy/Docs/Law.doc
+   82  cat floppycontent.txt | grep .*jpeg
+   83  cat floppycontent.txt
+   84  tree /mnt/floppy
+   85  tree /mnt/floppy/
+   86  vitrtualbox
+   87  virtualbox
+   88  cd
+   89  ls
+   90  wget http://cdimage.kali.org/kali-2.0/kali-linux-2.0-amd64.iso
+   91  virtualbox
+   92  wget http://cdimage.kali.org/kali-2.0/kali-linux-2.0-amd64.iso
+   93  pico search.txt
+   94  virtual machine
+   95  virtualmachine
+   96  virtualmachinne
+   97  virtualmachine
+   98  ls
+   99  rm kali-linux-2.0-amd64.iso
+  100  cd /mnt/floppy/
+  101  ls
+  102  dir
+  103  ls -al
+  104  cd 
+  105  ls
+  106  cat hits.txt 
+  107  cat sha1.filelist 
+  108  ls /mnt/floppy/
+  109  cd /mnt/floppy/
+  110  ls
+  111  ls -al
+  112  ls
+  113  ls /usr/share/digitalforensics/images/
+  114  cd 
+  115  virtualbox 
+  116  LS
+  117  ls
+  118  /usr/share/
+  119  cd/usr/share/
+  120  cd /usr/share/
+  121  ls
+  122  cd
+  123  ls
+  124  pwd
+  125  rm kali-linux-2.0-amd64.iso.1 
+  126  ls
+  127  cd /usr/share/digitalforensics/
+  128  ls
+  129  cd resources
+  130  ls
+  131  cat linuxintro-LEFE-3.78.pdf 
+  132  vitualbox
+  133  virtualbox 
+  134  vit
+  135  virtualbox 
+  136  virtualbox
+  137  cd home
+  138  cd
+  139  ls
+  140  cd VirtualBox Vms/
+  141  touch Carson_characteristics.txt
+  142  find /mnt/floppy/ -type f -exec file { } \;  > floppycontent.txt
+  143  find /usr/share/new_disk/ -type f -exec sha1sum { } \;  > Carson_sha1sum.txt
+  144  find /mnt/test -type f -exec sha1sum { } \;  > Carson_sha1sum.txt
+  145  cat Carson_sha1sum.txt 
+  146  ls
+  147  ls /mnt/test/
+  148  ls
+  149  ls /mnt/test/
+  150  find /mnt/test -type f -exec sha1sum { } \;  > Carson_sha1sum.txt
+  151  find /usr/share/new_disk/ -type f -exec sha1sum { } \;  > Carson_characteristics.txt
+  152  find /mnt/test/ -type f -exec sha1sum { } \;  > Carson_characteristics.txt
+  153  find /usr/share/new_disk/ -type f -exec file { } \;  > Carson_characteristics.txt
+  154  find /mnt/test/ -type f -exec file { } \;  > Carson_characteristics.txt
+  155  cat Carson_characteristics.txt 
+  156  find /mnt/floppy/ -type f -exec file { } \;  > floppycontent.txt
+  157  cat floppycontent.txt 
+  158  find /mnt/test/ -type f -exec file { } \;  > Carson_characteristics.txt 
+  159  cat Carson_cha
+  160  cat Carson_characteristics.txt 
+  161  find /mnt/floppy/ -type f -exec file {} \;  > floppycontent.txt
+  162  cat Carson_characteristics.txt 
+  163  find /mnt/floppy/ -type f -exec file {}\;  > floppycontent.txt
+  164  find /mnt/floppy/ -type f -exec file {} \; > floppycontent.txt
+  165  cat Carson_characteristics.txt 
+  166  ls
+  167  cat floppycontent.txt 
+  168  find /mnt/floppy/ -type f -exec file {}\; >> Carson_c
+  169  find /mnt/floppy/ -type f -exec file {}\; >> Carson_characteristics.txt
+  170  find /mnt/floppy/ -type f -exec file {} \; >> Carson_characteristics.txt
+  171  cat Carson_characteristics.txt 
+  172  find . -type f -exec file {} \; > Carson_characteristics.txt
+  173  find /mnt/test/ -type f -exec file {}\; > Carson_characteristics.txt
+  174  find /mnt/test/ -type f -exec file {} \; > Carson_characteristics.txt
+  175  cat Carson_characteristics.txt 
+  176  find /mnt/test/ -type f -exec sha1sum {} \; > Carson_sha1sum.txt 
+  177  cat Carson_sha1sum.txt 
+  178  find /mnt/test/ -type f -exec ls -al {} \; > Carson_sha1sum.txt 
+  179  find /mnt/test/ -type f -exec sha1sum {} \; > Carson_sha1sum.txt 
+  180  find /mnt/test/ -type f -exec sha1sum {} \; > Carson_timelisting.txt 
+  181  cat Carson_timelisting.txt 
+  182  find /mnt/test/ -type f -exec la -al {} \; > Carson_timelisting.txt 
+  183  find /mnt/test/ -type f -exec ls -al {} \; > Carson_timelisting.txt 
+  184  find /mnt/test/ -type f -exec  {} \; > Carson_timelisting.txt 
+  185  cd /mnt/test/
+  186  ls
+  187  grep -i Carson
+  188  grep /mnt/test/ -i Carson
+  189  find /mnt/test/ -type f -exec file {} \;| grep /mnt/test/ -i Carson
+  190  find /mnt/test/ -type f | grep /mnt/test/ -i Carson
+  191  grep man
+  192  man grep
+  193  find /mnt/test/ -type f | grep -e Carson
+  194  cd
+  195  find /mnt/test/ -type f | grep -e Carson
+  196  cat Carson_pictures.txt 
+  197  find /mnt/test/ -type f | grep -i jpeg > Carson_pictures.txt 
+  198  cat Carson_pictures.txt 
+  199  grep -i jpg somefile
+  200  grep -i jpg /mnt/test/
+  201  cat Carson_characteristics.txt | grep -i jpeg > Carson_pictures.txt 
+  202  Carson_pictures.txt
+  203  ls
+  204  cat Carson_pictures.txt 
+  205  cd /mnt/
+  206  ls
+  207  cd /floppy/
+  208  cd /mnt/floppy/
+  209  ls
+  210  cd .
+  211  cd ..
+  212  ls
+  213  cd test
+  214  ls
+  215  cd 
+  216  cat hit.txt
+  217  cat hits.txt
+  218  cat Carson_characteristics.txt 
+  219  cat Carson_characteristics.txt | grep -e jpeg 
+  220  cat Carson_characteristics.txt | grep -e jpeg Carson_characteristics.txt 
+  221  grep -e jpeg Carson_characteristics.txt 
+  222  grep -e jpg Carson_characteristics.txt 
+  223  grep -e jpg Carson_characteristics.txt >> Carson_pictures.txt 
+  224  cat Carson_p
+  225  cat Carson_pictures.txt 
+  226  cd /usr/share/digitalforensics/images/
+  227  cat newfloppy.img 
+  228  grep -i Carson newfloppy.img 
+  229  cat newfloppy.img |grep -i Carson newfloppy.img 
+  230  cat newfloppy.img | grep -i Carson newfloppy.img 
+  231  cat floppy.img
+  232  grep 
+  233  cat newfloppy.img | grep -i Zach newfloppy.img 
+  234  grep '[a-zA-Z]' newfloppy.img 
+  235  sed -e /'[Carson}'
+  236  sed -e /'[]'
+  237  grep -abif searchlist.txt image.disk1 > hits.txt
+  238  grep -abi Zachary Carson newfloppy.img
+  239  grep -abi Zachary Carson newfloppy.img | sort -u
+  240  grep -abi Zachary Carson newfloppy.img|sort -u
+  241  grep -abi Zachary Carson newfloppy.img | sort -u
+  242  grep -abe c084fc2d61f0dd63f19992302c067192762702b1  - @   newfloppy.img|sort -u
+  243  grep -abi Austin Flynn newfloppy.img|sort -u
+  244  display /usr/share/digitalforensics/images/newfloppy.img 
+  245  touch Carson_mount.txt
+  246  nano Carson_mount.txt 
+  247  ls -rt /mnt/test/
+  248  cd /mnt/test/
+  249  cat lost+found/
+  250  cat /Pics/C800X600.jpg
+  251  cat /mnt/test/Pics/C800X600.jpg
+  252  cat /mnt/test/Pics/C800x600.jpg
+  253  display  /mnt/test/Pics/C800x600.jpg
+  254  cat /mnt/test/Pics/C800x600.jpg | grep -i [^A-Z]
+  255  cat /mnt/test/Pics/C800x600.jpg | grep -ai [^A-Z]
+  256  cat /mnt/test/Pics/C800x600.jpg | grep -ai [A-Z]
+  257  caear
+  258  clear
+  259  cat /mnt/test/Pics/C800x600.jpg | grep -ai [A-Z]
+  260  cat /mnt/test/Pics/C800x600.jpg | grep -ai "[A-Z]"
+  261  cat /mnt/test/Pics/C800x600.jpg | grep -ai "[a-z]"
+  262  ls
+  263  cd /usr/share/digitalforensics/images/
+  264  ls
+  265  cat newfloppy.img 
+  266  clear
+  267  cat newfloppy.img | grep -ao "secret"
+  268  cat newfloppy.img | grep -abio "secret"
+  269  cat newfloppy.img | grep -ao "secret message"
+  270  cat newfloppy.img | grep -ao "secr"
+  271  cat newfloppy.img | grep -abio "[a-z]"
+  272  cat newfloppy.img | grep -aio "[a-z]"
+  273  cat newfloppy.img | grep -aio "[a-z]*"
+  274  cat newfloppy.img | grep -aio "*secret[a-z]*"
+  275  echo "# Carson_2_Journals" >> README.md
+  276  mkdir Carson_2_Journal
+  277  cd Carson_2_Journal
+  278  echo "# Carson_2_Journals" >> README.md
+  279  git init
+  280  git *
+  281  git add README.md
+  282  git remote add origin https://github.com/zackkattack/Carson_2_Journals.git
+  283  git commit -m "first commit"
+  284  git push -u origin master
+  285  pico Carson_2_Journal0925
+  286  fg
+  287  git commit -m "Carson_2_Journal0925"
+  288  git push -u origin master
+  289  get add*
+  290  get add * 
+  291  git add * 
+  292  git commit -m "Carson_2_Journal0925"
+  293  git push -u origin master
+  294  ls -rt -l
+  295  find .
+  296  find . | grep *.xls
+  297  find . | grep *.swp
+  298  find *.swp
+  299  find "*.swp"
+  300  ls - stat
+  301  ls -stat
+  302  ls -al
+  303  cat /dev/zero 
+  304  cat /dev/zero >> ZEROS.TXT
+  305  cat ZEROS.TXT 
+  306  ls -ls ZEROS.TXT 
+  307  hexdump 
+  308  hexdump ZEROS.TXT 
+  309  cat /dev/urandom 
+  310  ls
+  311  cd Carson_2_Journal/
+  312  ls
+  313  Carson_2_
+  314  pico Carson_2_0929
+  315  get add*
+  316  git add*
+  317  git add Carson_2_0929 
+  318  git commit -m "Carson_2_0929" 
+  319  git push -u zackattack
+  320  git push -u origin master 
+  321  git add Carson_2_0929 
+  322  git commit -m "Carson_2_0929" 
+  323  git add Carson_2_0929.txt 
+  324  git add Carson_2_0929
+  325  git add Carson_2_0929 
+  326  git commit -m "Carson_2_0929" 
+  327  git push -u origin master 
+  328  wget http://d22.ninja/digitalforensics_1516/resources/directory.cfm
+  329  ls -rt
+  330  cat directory.cfm | grep -ai '[a-z]*@[a-z]*.[a-z][z]'
+  331  cat directory.cfm | grep -ai '[a-z]*@[a-z]*.[a-z][z]' >> Emails.txt
+  332  cat Emails.txt 
+  333  cat directory.cfm | grep -ai '@[a-z]*.[a-z][z]' >> Emails.txt
+  334  cat Emails.txt 
+  335  cat directory.cfm | grep -ai '@[a-z]*.[a-z][3]' >> Emails.txt
+  336  cat Emails.txt 
+  337  cat directory.cfm 
+  338  cat directory.cfm | grep -ao '@[a-z]*.[a-z][z]' >> Emails.txt
+  339  cat Emails.txt 
+  340  cat directory.cfm | grep -ao '[a-z]*@neisd.[a-z][z]' >> Emails.txt
+  341  cat E
+  342  cat Emails.txt 
+  343  cat directory.cfm | grep -ao '[a-z]*@neisd.net' >> Emails.txt
+  344  cat Emails.txt 
+  345  cat directory.cfm | grep -ao '[a-z]*@neisd.net'
+  346  cat directory.cfm | grep -ao '[^@ ]*@neisd.net'
+  347  cat directory.cfm | grep -ao '[^@ : ]*@neisd.net'
+  348  cat directory.cfm | grep -ao '[^@ : >]*@neisd.net'
+  349  grep -ao '[^@ : >]*@neisd.net directory.cfm | sort -u
+  350  grep -ao '[^@ : >]*@neisd.net' directory.cfm | sort -u
+  351  grep -ao '[^@ : >]*@neisd.net' directory.cfm | sort -u |wc -l
+  352  grep -ao '[^@ >]*@neisd.net' directory.cfm | sort -u |wc -l
+  353  grep -ao '[^@ : >]*@neisd.net' directory.cfm | sort -u
+  354  ls
+  355  cd Carson_2_Journal/
+  356  git add*
+  357  git add
+  358  git add *
+  359  git commit -m "Carson_2_0929.txt" 
+  360  git push -u origin master
+  361  git pull "Carson_2_0929.txt"
+  362  pico Carson_2_0
+  363  pico Carson_2_0929.txt 
+  364  git add *
+  365  pico Carson_2_Journal0929.txt 
+  366  git commit -mCarson_2_Journal0929.txt 
+  367  git push -u origin master
+  368  git add *
+  369  git push -u origin master
+  370  ls
+  371  cd Carson_2_Journal/
+  372  ls
+  373  git add *'
+  374  git add *
+  375  git commit -m "commit"
+  376  git push -u origin master
+  377  virtualbox 
+  378  cd Carson_2_Journal/
+  379  pico Carson_2_0930
+  380  git add *
+  381  git commit -m "Carson_2_0930"
+  382  git push -u origan master
+  383  git push -u origin master
+  384  vi
+  385  cd Carson_2_Journal/
+  386  pico Carson_2_1002
+  387  git add *
+  388  git commit -m "Poop"
+  389  git push orgi master
+  390  git push origin master
+  391  git push -u origin master 
+  392  git pull origin master
+  393  cmatrix
+  394  cmatrix -BsC red
+  395  man cma
+  396  man cmatrix
+  397  virt
+  398  virtualbox 
+  399  cmatric -s
+  400  cmatrix -s
+  401  virtualbox 
+  402  virtual
+  403  virtualbox \
+  404  virtualbox 
+  405  cd Carson_2_Journal/
+  406  pico Carson_2_1019
+  407  pico Carson_2_1019.txt
+  408  fg
+  409  cd
+  410  cd Desktop
+  411  history < Carson_2_CommandHistory_101915.txt
+  412  history << Carson_2_CommandHistory_101915.txt
+  413  history 
