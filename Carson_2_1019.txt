@@ -1,0 +1,18 @@
+ Carson_2_1019.txt                          
+
+What is a disk image?
+an image with contents of a disk
+What is the command to make a disk image?
+dd
+What is a disk partition?
+A section that is saved for infomation
+How many disk partitions are in a disk image?
+It depinds on the disk user
+What difficulties does this pose if any?
+there can be millsions of partitions with stuff in it to search
+What steps must you take to work with this?
+fdish and and mount sectors search each partition one by one
+
+
+
+
