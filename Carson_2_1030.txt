@@ -1,0 +1,8 @@
+Why do we use disk images in digital forensics?
+  so we can  have a virtual copy of a physical disk
+Provide an example and describe a use case.
+  if i have 100 disk and i don't have to have hard disk 
+What are the steps of creating a blank disk image and then adding files?
+  fallocate somedisk.img
+  cfdisk to partiton the drive
+  kpart to mount
