@@ -1,0 +1,1 @@
+From mounting the many partitons I was able to learn the syntax for basic mounting command. Also I learned how to mount certin partitons insetd of the whole disk.
