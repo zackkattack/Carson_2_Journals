@@ -1,0 +1,1 @@
+Data Carving is a way to recover deleated files. It extracting data out of undifferentiated blocks. In the partions there can be hidden deleted files that you would have to find.
