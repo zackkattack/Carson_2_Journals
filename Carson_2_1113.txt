@@ -1,0 +1,4 @@
+How did you combine multiple files in Linux?
+cat messagesplit9* > loop.png
+How can you split multiple files in Linux?
+split -b 1000 pic.png
