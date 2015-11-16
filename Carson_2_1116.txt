@@ -1,0 +1,6 @@
+How did you split multiple files in Linux?
+split
+What are the specific commands to create, partition, and write files to a disk image?
+fallocate
+cfdisk
+mkfs
