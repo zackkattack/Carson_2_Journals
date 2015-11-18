@@ -1,0 +1,3 @@
+What is the file header for a jpeg image? PNG? 
+89 59 4E 47 0D 0A 1A 0A = PNG
+d8ff e0ff 1000 464a 4649 0100 0101 4800 = jpeg
