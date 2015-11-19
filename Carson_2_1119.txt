@@ -1,0 +1,13 @@
+What is the process for locating the beginning of an image file? How? Why? 
+First we have to find  our file headder in our image Then we search fro that headder to find the start of the file .
+then convert it to dinary to echo " ibase=16: hex number" |bc to find the end. Then using echo "27766 - 21156" | bc
+you find the bitadress for the whole file. finally using dd you can recreate the file.
+
+First we search for ff8 We search for ffd8 by using the command xxd
+Then we grep to find the line.
+Using the value from that - we use echo and ibase to convert 00052A0 to a decimal number.
+For example, in the example from yesterday, we found 00052A0 and converted it to decimal using the command ibase
+Then to find the end of the file, we searched for ffd9 using the command grep.
+******************************************************
+Using that information, we find the number of bits, using the command echo "27766 - 21156" | bc
+Then using dd we can reconstruct the file using the command dd if=image_carve.raw of=carv.jpg skip=21156 bs=1 count=6610
