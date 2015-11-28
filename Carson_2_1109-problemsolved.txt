@@ -1,0 +1,6 @@
+How can you recover deleted images?
+  you can eithere use photorec or any other file recovery software of you can carve the image from the disk 
+
+What information do you need to know?
+  how to use the program 
+  you need to know what the file headder of the file and where it is located.
