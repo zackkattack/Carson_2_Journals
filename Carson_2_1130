@@ -1,0 +1,14 @@
+What type of information does this site provide? Why? http://www.fileformat.info/format/jpeg/egff.htm
+  infomation about JPEG and JIFI's datat structure. mkaes it eaiser to manipulate files
+How would a digital forensics expert use this information?
+  to carve the image data
+What is it for? http://d22.ninja/digitalforensics_1516/resources/hex_file_and_regex_cheat_sheet.pdf
+  a list of headder tags of diffrent files so you can carve that file
+What information BE SPECIFIC do you need to recover:
+  the file headder
+an Excel document?
+  D0 CF 11 E0
+a Word document?
+  D0 CF 11 E0
+a ZIP file?
+  50 4B 03 04
