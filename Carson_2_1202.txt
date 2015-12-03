@@ -1,0 +1,11 @@
+For your journal, consider (in writing), given that file headers change and hex editors change - what processes are you learning that 
+lead to file recovery?
+
+And may be extensible to other aspects of problem solving and life? [This does have an answer.] 
+
+first you find the file headder of the file you want to recover.
+Use that to find the the decimal number to bet the bit locatioin of the file.
+then to find the ending, you would tail apreviously created file to find it .
+then carve  the file
+
+IN life things are not black and white. You will have to identify problems simmilar to yours and adjust to it.
