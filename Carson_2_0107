@@ -1,0 +1,34 @@
+Given a unique file type, e.g. a 'blorb', how could we identify its file header and tail?
+
+   fopr a blorp, you would find another bloirp file and find the beging of the file . using thisinfomarion you can fing the end of the file
+Please look at the image df_0106.img in /usr/share/digitalforensics/images.
+
+Using this image, answer the following questions:
+
+Use the command:
+
+icat df_0106.img
+   icat opens the named image(s) and copies the file  with  the  specified
+       inode number to standard output.
+
+blkls df_0106.img > blkls.df0107
+  man i dont know why i should do that stuff it's totally not cool 
+effort is so lame 
+ill tell you what here are the usernames and passwords 4 the teacherz 
+
+contreraras 123456
+hudson password
+dagget qwerty
+stancek baseball
+pape dragon
+claughton football
+davis d22ninja
+vidal Th353kidzd0ntkn0wh0w2r3@d!
+
+b0nano 2.4.2�Srootninja38/mnt/0106_df/mopeyU
+
+blkls copies the contents of unallocated data blocks.
+
+blkls df_0106.img > blkls.df0107
+strings -t d blkls.df0107 > df0101.str 
+data carves the image for deleted files and saves them in a string format
