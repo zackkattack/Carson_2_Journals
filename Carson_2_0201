@@ -1,0 +1,11 @@
+
+    List the steps from exmount, to fls, to icat, to pffexport, to grep, to cat -- to reveal the problematic email headers from the M57.biz
+    Paste the problematic email headers
+    
+ xmount --in ewf Desktop/nps-2008-jean.E01/nps-2008-jean.E?? ewf/
+ fls -r -i raw -o 63 lose/nps-2008-jean.dd |grep "\.pst"
+ icat -o 63 -i raw lose/nps-2008-jean.dd 17358 > example.pst
+ pffexport -m all -t outlook-export
+ 
+ <?xml
+ 
