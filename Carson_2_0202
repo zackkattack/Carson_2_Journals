@@ -1,8 +1,15 @@
     Copy the internet header from message 207
 
     What are the parts?
+        Return-Path, X-Original-To, Received:, 
+        To: jean@m57.biz
+        From: alison@m57.biz
+        subject: background checks
+        Message-Id: <20080719233957.64C683B1DAE@xy.dreamhostps.com>
+        Date: Sat, 19 Jul 2008 16:39:57 -0700 (PDT)
 
     What incongruities?
+        Return-Path: <simsong@xy.dreamhostps.com>
 
     Why are internet headers important for forensics investigators?
-
+        I can Identify when sent this email by looking at the return path which shows where this message actualy came fomr  
