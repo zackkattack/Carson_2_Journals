@@ -6,8 +6,13 @@
 
     Answer the following questions:
     What browser is being used? How do you know? [Give output to support your answer]
+        Firefox 
+        11:25:22.243680 IP 192.168.1.2.1246 > moz.com01.nslb.sj.mozilla.com.http: Flags [P.], seq 1:736, ack 1, win 65535, length 735
     What subnet is the machine on?
+        192.168.1.2
+        2
     What is the router's IP address? [Is this common? Why?]
+        192.168.1.50
     What is Verisign?
     Which programming language is being investigated?
     What are ack and seq?
