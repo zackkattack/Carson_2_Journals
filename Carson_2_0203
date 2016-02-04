@@ -14,6 +14,8 @@
     What is the router's IP address? [Is this common? Why?]
         192.168.1.50
     What is Verisign?
+        Verisign is a company that has two of the thirteen root server names (SSL and PKI), and  the authoritative 
+        registry for the .com, .net, and .name generic top-level domains and the .cc and .tv country-code top-level domains, and the back-end systems for the .jobs, .gov, and .edu top-level domains
     Which programming language is being investigated?
     What are ack and seq?
     Is somebody sending email? How do you know?
