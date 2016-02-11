@@ -1,0 +1,2 @@
+How and why might you capture network data for forensic purposes?
+  use tcp dump on the network or check router for suspecious stuff so you can find the naughty  things people are doing
