@@ -1,0 +1,52 @@
+ Execute the command apt-cache search sniff
+    1. What do you see?
+        I see a search of GNU tools with sniff in the the title or the discriptions
+    2. Copy and paste 3 names that sound intersting
+        netsniff-ng - Linux network packet sniffer toolkit
+        hexinject - Versatile packet injector and sniffer
+        hunt - Advanced packet sniffer and connection intrusion
+       Execute the command: cat /proc/sys/net/ipv4/ip_forward
+    3. What do you think it means?
+        none of my ports are open
+    4. Why might someone change the value to 1?
+        open the port
+       You should now install Zenmap
+    5. What command(s) are needed to update and install zenmap?
+        apt-get install zenmap
+       Start zenmap
+       root does not have permission to run graphics; you'll need to use xhost + from your normal VM user.
+       In a terminal type: nmap --top-ports 25 10.4.27.YOURNINJA+1
+    6. What do you see?
+        ports that are open for me
+    7. Change the 25 to 10 and then to 100 - what changed?
+        Shortened the search list
+       Enter the code: nmap -F 10.4.27.1-29
+    8. What did you see?
+        ports open on all computers on the networks
+         Specifies that you wish to scan fewer ports than the default. Normally Nmap scans the most common 1,000 ports for each scanned protocol. With -F, this
+           is reduced to 100.
+    9. How might this be useful in a digital forensics investigation?
+         to find what traffick is going where
+   10. What is an OS?
+        Operating systems
+   11. Why would you scan the network for different OSes?
+       -o is used for OS scans
+        to identify devices
+   12. What command did you use to scan d22 for different OSes?
+        nmap -O 10.4.27.29
+   13. What is the address of the printer?
+        10.0.2.0/24
+   14. What is the address of the switch?
+        Try the code: nmap --iflist
+        10.0.2.15/24
+   15. What does it do?
+   16. What are the ipv4 addresses?
+        10.0.2.15/24
+   17. What are the ipv6 addresses?
+        fe80::a00:27ff:fe13:9388/64
+   18. Why the difference?
+       Now fire up Zenmap and take a picture of the network topography
+   19. Why would you want a picture of network topography for digital forensics?
+        to identify ips on the network
+
+
