@@ -1,0 +1,16 @@
+  GNU nano 2.2.6                                         File: Carson_2_0224                                                                                Modified  
+
+Using Zenmap, do a quick scan of the network
+
+   Look at the 'hosts' and 'services' tab
+
+   Click on services
+   You should see approximately 7 services
+
+   Click on each in order
+
+   By examining services only - identify / guess which computer is Mr. Davis' - explain your rational
+        under Kerberos-sec I found 10.4.27.39. I found out that kerberos-sec is the computer 
+        that allows nodes to talk to each other oover the network
+
+
