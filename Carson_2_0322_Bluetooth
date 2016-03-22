@@ -1,0 +1,14 @@
+What is Bluetooth?
+  it is a device that transfers data over a frequency of 2.4 to 2.485 GHz
+Yesterday, you should have written a journal describing how a network was compromised and how you solved the crime. Did you mention Bluetooth? Why or why not?
+  no
+    What do the following tools do? And what is a sample command for each?
+    hciconfig
+    hcitool
+    hcidump
+
+Run apt-cache search bluetooth |less - What are three interesting packages you see? How are they interesting?
+
+  amora-applet - use a bluetooth device as X remote control (systray applet)
+  redfang - Locates non-discoverable bluetooth devices
+  ubertooth - An open source 2.4 GHz wireless development platform.
