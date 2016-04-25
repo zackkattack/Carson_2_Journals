@@ -1,0 +1,14 @@
+Using your internet skills list ten different MITM (man in the middle) attacks.
+Describe whether and how each might be detected or prevented.
+
+Common Injections 
+key exchanging 
+IPSEC failure
+PPTP
+ARP poisoning 
+DNS spoofing 
+STP mangling  
+STP mangling 
+port stealing 
+DHCP spoofing   
+ICMP redirect
