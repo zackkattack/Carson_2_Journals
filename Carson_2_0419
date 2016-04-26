@@ -1,0 +1,5 @@
+
+    1. What option must you disable in Kismet so as to not commit a felony? Why?
+      packet sniffing, it is a crime 
+    2. What is WEP encryption and why is it unsafe? i.e., how is it compromised?
+      WEP,Passive attacks to decrypt traffic,Active attacks to inject new traffic from unauthorized mobile stations
