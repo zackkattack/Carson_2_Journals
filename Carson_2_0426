@@ -1,0 +1,15 @@
+
+    Have you logged into your router at home?
+     yes
+    Do you know what router you use? Which?
+    no
+    Do you know what firmware your router uses? Which?
+      no
+    Do you know the essid of your router? your neighbors' routers?[Notice, you were not asked to provide any ESSIDs.]
+     not of the top of my head, but i might have it in kismet
+    Which channel is your router using? protocol(s)?
+      Ch. 3, arp
+    Have you changed the default password? why or why not?
+      yes, the password that came with the router was unsecure.
+    Should you change the default password? why or why not?
+      yes, it is unsecure becuase it was a 10 digit code
