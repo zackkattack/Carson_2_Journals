@@ -1,0 +1,18 @@
+When discussing wifi, what is:
+
+    an AP
+      Acces Point
+    a client
+      Device connect to the host 
+    a bridge
+      A network bridge is networking hardware that connects multiple network segments. In the OSI model, bridging is performed in the first two layers, below the network layer (layer 3).
+    a repeater
+      In telecommunications, a repeater is an electronic device that receives a signal and retransmits it at a higher level or higher power, or onto the other side of an obstruction, so that the signal can cover longer distances.
+    ad-hoc mode
+      An 802.11 networking framework in which devices or stations communicate directly with each other, without the use of an access point (AP). Ad-hoc mode is also referred to as peer-to-peer mode or an Independent Basic Service Set (IBSS).
+    mesh network
+      network topology in which each node relays data for the network. 
+    war chalking
+      drawing of symbols in public places to advertise an open Wi-Fi network
+    a rogue AP
+      wireless access point installed on a wired enterprise network without authorization from the network administrator. 
